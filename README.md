@@ -71,7 +71,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+``````
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -303,7 +303,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-
+```
 ## Output screen shots of proteus  :
 
 ![Screenshot (537)](https://github.com/user-attachments/assets/863b632e-b755-4572-b4a7-8cfccd0205f6)
